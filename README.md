@@ -230,7 +230,7 @@ The definition of the activity is as follows.
         "timeout": "0.12:00:00",
         "retry": 0,
         "retryIntervalInSeconds": 30,
-        "secureOutput": false,
+        "secureOutput": true,
         "secureInput": false
     },
     "userProperties": [],
